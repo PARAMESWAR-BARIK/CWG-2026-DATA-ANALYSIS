@@ -1,5 +1,9 @@
 # 🏅 India's Performance Analysis | Commonwealth Games 2026
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/parameswar-barik-1b061a2a4/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/PARAMESWAR-BARIK/CWG-2026-Data-Analysis)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Watch_Demo-red?style=for-the-badge&logo=youtube)](https://youtube.com/@digitaldatasalutations?si=aJX4itlWfRqd0EIs)
+
 ## 📌 Project Overview
 This project presents a data-driven analysis of India's performance at the Commonwealth Games 2026. Beyond the surface-level medal tally, this breakdown highlights performance efficiency, gender-wise gold conversion rates, and core discipline concentrations using Microsoft Excel.
 
