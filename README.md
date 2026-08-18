@@ -34,6 +34,8 @@ Data Visualization: High-contrast KPI Cards, Comparative Bar Charts, Slicers & D
 👤 Author & Contact
 Author: Parmeshwar Barik
 
-LinkedIn: Connect on LinkedIn (https://WWW.linkedin.com/in/parameswarbarik)
+LinkedIn: Connect on LinkedIn https://WWW.linkedin.com/in/parameswarbarik
 
-Project Drive: Google Drive Resource (Insert Link Later)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/parameswar-barik-1b061a2a4/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/PARAMESWAR-BARIK/CWG-2026-Data-Analysis)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Watch_Demo-red?style=for-the-badge&logo=youtube)](https://youtube.com/@digitaldatasalutations?si=aJX4itlWfRqd0EIs)
